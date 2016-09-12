@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="17afb22a6265b0d3e3599bfc8bc83fa781bf2b16">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7360e1d62f5b20ee8d536e562a6cd3709eed5348/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_6f471f400b984617c36a78265ca39199933e1a13/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_11d9d5713113c2e1fa92171d7f2c72de0e407fb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_5098129d1d6f4074e8c553fbdc520f9207ebff7b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_facb5adbba992b593ad69423d83da9b998ce50e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d90b2aca9da486e75978c53f7f353fe57b1bed23">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8335f375e990b870e77d467e014b0b345e3b37e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_b73fe75bde8ab1916eb8acff6ad4439823db5c5b/classes.dex" />
+    </item>
+
+</items>

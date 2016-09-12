@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/Andreas/Skola/ImageEnhance/build/intermediates/res/merged/debug/layout/amlevels_dialog.xml",
+        "source": "/Users/Andreas/Skola/ImageEnhance/src/main/res/layout/amlevels_dialog.xml"
+    },
+    {
+        "merged": "/Users/Andreas/Skola/ImageEnhance/build/intermediates/res/merged/debug/layout/levels_dialog.xml",
+        "source": "/Users/Andreas/Skola/ImageEnhance/src/main/res/layout/levels_dialog.xml"
+    },
+    {
+        "merged": "/Users/Andreas/Skola/ImageEnhance/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Andreas/Skola/ImageEnhance/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Andreas/Skola/ImageEnhance/build/intermediates/res/merged/debug/layout/activity_dialog.xml",
+        "source": "/Users/Andreas/Skola/ImageEnhance/src/main/res/layout/activity_dialog.xml"
+    }
+]
