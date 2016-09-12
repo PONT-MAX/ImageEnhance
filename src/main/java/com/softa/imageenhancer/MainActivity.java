@@ -40,8 +40,6 @@ import com.google.android.gms.common.api.GoogleApiClient;
 
 public class MainActivity extends FragmentActivity {
 
-	//Hej
-
 	final static int SELECT_IMAGE = 10;
 	private ImageView beforeImageView, afterImageView;
 	private Bitmap theImage;
