@@ -8,6 +8,9 @@
 //The histogram in a array
 int32_t hist_array[256];
 
+// Size of whole image
+int size;
+
 //The transformfunction
 float T[256];
 
@@ -84,7 +87,7 @@ void createTransformFunctionArray() {
     //create map for y
     float sum = 0;
     for (int i = 0; i < 256; i++) {
-        sum += histo[i];
+        sum += hist_array[i];
         T[i] = sum / (size);
     }
 }

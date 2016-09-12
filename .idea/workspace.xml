@@ -5,8 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6638e5e6-7e6c-4e53-8ab5-55b37c1bb52a" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_appindexing_8_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/play_services_basement_8_1_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_22_2_0.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer$9.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$1.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$3.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$4.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$6.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$7.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$8.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer$9.class" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/mockable-android-18.jar" afterPath="$PROJECT_DIR$/build/generated/mockable-android-18.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/google/android/gms/appindexing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/HisteqEnhancer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$dimen.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R.class" afterPath="$PROJECT_DIR$/build/intermediates/classes/debug/com/softa/imageenhancer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="$PROJECT_DIR$/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/google/android/gms/appindexing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/HisteqEnhancer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$dimen.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R.class" afterPath="$PROJECT_DIR$/build/intermediates/incremental-verifier/debug/com/softa/imageenhancer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/classes.zip" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/classes.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/resources.zip" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/resources.zip" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="$PROJECT_DIR$/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/google/android/gms/appindexing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/HisteqEnhancer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$dimen.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/softa/imageenhancer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/google/android/gms/appindexing/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/HisteqEnhancer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/MainActivity.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$color.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$color.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$dimen.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$dimen.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$id.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$id.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$integer.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$integer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$string.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$string.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$style.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$style.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$styleable.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R$styleable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R.class" afterPath="$PROJECT_DIR$/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/softa/imageenhancer/R.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/ImageEnhance-debug-unaligned.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/ImageEnhance-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/outputs/apk/ImageEnhance-debug.apk" afterPath="$PROJECT_DIR$/build/outputs/apk/ImageEnhance-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ImageEnhance.iml" afterPath="$PROJECT_DIR$/ImageEnhance.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/google/android/gms/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/google/android/gms/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/google/android/gms/appindexing/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/generated/source/r/debug/com/softa/imageenhancer/R.java" afterPath="$PROJECT_DIR$/build/generated/source/r/debug/com/softa/imageenhancer/R.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="$PROJECT_DIR$/build/intermediates/instant-run-support/debug/manifest.crc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" afterPath="$PROJECT_DIR$/build/intermediates/restart-dex/debug/build-info.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/symbols/debug/R.txt" afterPath="$PROJECT_DIR$/build/intermediates/symbols/debug/R.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/HisteqEnhancer.java" afterPath="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/HisteqEnhancer.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/rs/histEQ.rs" afterPath="$PROJECT_DIR$/src/main/rs/histEQ.rs" />
     </list>
     <ignored path="ImageEnhance.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -34,38 +176,48 @@
     <favorites_list name="ImageEnhance" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="162.22223">
-              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="histEQ.rs" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/rs/histEQ.rs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-1.4150944">
+                  <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="HisteqEnhancer.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/HisteqEnhancer.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-195.55556">
+                  <caret line="352" column="0" selection-start-line="352" selection-start-column="2" selection-end-line="360" selection-end-column="5" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="histEQ.rs" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/rs/histEQ.rs">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="1.1543739">
+                  <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="47" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -740,7 +892,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="1473683276000" />
+        <entry key="$PROJECT_DIR$" value="1473684338000" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -989,16 +1141,18 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/AlevelsEnhancer.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/rs/histEQ.rs" />
+        <option value="$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/HisteqEnhancer.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="4" />
     <option name="y" value="23" />
-    <option name="width" value="1666" />
+    <option name="width" value="1676" />
     <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -1008,7 +1162,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -1033,10 +1187,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="ImageEnhance" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -1152,12 +1302,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../ET2584_sommar_bild/Andoid/ET2584/ImageEnhancerExample" />
     <property name="android.project.structure.last.selected" value="ImageEnhance" />
     <property name="android.project.structure.proportion" value="0.15" />
-    <property name="device.picker.selection" value="Nexus_5X_API_23" />
+    <property name="device.picker.selection" value="HT43TWM03304" />
   </component>
   <component name="RunManager" selected="Android Application.ImageEnhance">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1454,7 +1604,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="23" width="1666" height="1027" extended-state="6" />
+    <frame x="4" y="23" width="1676" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1476,8 +1626,8 @@
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09118727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32930845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1512,24 +1662,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="162.22223">
-          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.4416761">
+          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/rs/histEQ.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.1543739">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/HisteqEnhancer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-195.55556">
+          <caret line="352" column="0" selection-start-line="352" selection-start-column="2" selection-end-line="360" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/softa/imageenhancer/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.4150944">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
           <folding />
         </state>
       </provider>

@@ -5,7 +5,7 @@
         jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="17afb22a6265b0d3e3599bfc8bc83fa781bf2b16">
+        sha1="3855cda36801006afc15c8bc2d00b9977c56d36e">
         <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7360e1d62f5b20ee8d536e562a6cd3709eed5348/classes.dex" />
     </item>
     <item
@@ -40,8 +40,15 @@
         jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         revision="24.0.0"
-        sha1="d90b2aca9da486e75978c53f7f353fe57b1bed23">
+        sha1="ce743c2ecc979f34af5cfd3324cca0661dee21e0">
         <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_8335f375e990b870e77d467e014b0b345e3b37e6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Andreas/Library/Android/sdk/build-tools/24.0.0/renderscript/lib/renderscript-v8.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2b063d8386ee79136f6a60efa936f422be61dbb2">
+        <dex dex="/Users/Andreas/Skola/ImageEnhance/build/intermediates/transforms/dex/debug/folders/1000/10/renderscript-v8_f5056e49eb702bafcb9ea994d445cdfda7b485b3/classes.dex" />
     </item>
     <item
         jar="/Users/Andreas/Skola/ImageEnhance/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
